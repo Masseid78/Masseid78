@@ -15,12 +15,3 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android&logoColor=fff" alt="Android Studio" height="30"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000" alt="React Native" height="30"/>
 </p>
-
-## 📈 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Masseid78&show_icons=true&theme=dark&count_private=true"
-    alt="GitHub Stats"
-    height="150"
-  />
-</p>
