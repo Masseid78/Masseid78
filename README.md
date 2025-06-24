@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o @Masseid78</h1>
-<p align="center">🚀 Desenvolvedor Full-Stack | 🌐 Web & Mobile </p>
+<p align="center">🚀 Desenvolvedor Full-Stack | 🌐 Web & Mobile</p>
 
 ## 🛠️ Skills & Ferramentas
 <p align="left">
@@ -18,5 +18,9 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masseid78&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Masseid78&show_icons=true&theme=dark&count_private=true"
+    alt="GitHub Stats"
+    height="150"
+  />
 </p>
