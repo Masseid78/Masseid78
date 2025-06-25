@@ -79,7 +79,7 @@
 ## 📫 Contato
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/masseid78  
 - 🐙 **GitHub:** https://github.com/Masseid78  
-- ✉️ **E-mail:** masseid78@gmail.com  
+- ✉️ **E-mail:** masseidsilva20@gmail.com  
 
  
 
