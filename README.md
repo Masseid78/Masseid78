@@ -63,6 +63,10 @@
 - **Portifolio MasseidDev**  
   -**Site e Aplicativo mobile que apresenta meu portfólio de projetos pessoais e meu perfil profissional.  
   - **Framework:** React Native
+- **BarberPro**  
+  -**Plataforma de agendamento para barbearias, responsiva a qualquer tipo de tela, com controle de caixa, faturamento e estoque.  
+  - **Mobile:** React Native  
+  - **Back-end:** Laravel
 
 ## 🌟 Projetos de Destaque
 1. **Robô de Tratamento de CSV com IA**  
