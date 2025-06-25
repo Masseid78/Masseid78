@@ -6,7 +6,7 @@
 
 ## 🛠️ Skills & Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" alt="Vue 3" height="30"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" alt="Vue.js" height="30"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff" alt="Laravel" height="30"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000" alt="React Native" height="30"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5" height="30"/>
@@ -35,24 +35,40 @@
   Plataforma web de gestão e acompanhamento de processos empresariais.  
   - **Front-end:** Vue.js  
   - **Back-end:** Laravel (PHP)  
-- **PodcastVault** (Ionic + PHP)  
-  Ajustes de interface, criação de perfis de usuário, listas de podcasts e recursos de compartilhamento.
+- **Pangea**  
+  Ferramenta interna de podcasts corporativos: ajustes de UI/UX, perfil de usuário, listas e compartilhamento.  
+  - **Ionic** + **PHP**
 
 ## 🚀 Projetos Pessoais
 - **Site Imobiliário**  
-  Plataforma pessoal para corretores postarem, destacarem, visualizarem, editarem e excluírem anúncios de imóveis.  
+  Plataforma para corretores postarem, visualizarem, editarem e excluírem anúncios de imóveis.  
   - **Front-end:** React Native, HTML, CSS  
-  - **Back-end:** Laravel  
-  - **Banco de dados:** MySQL  
+  - **Back-end:** Laravel + MySQL  
+- **Site Conselho Tutelar Vera Cruz (RS)**  
+  App móvel informativo com notícias, contatos de emergência e orientações para o Conselho Tutelar.  
+  - **Front-end:** React Native  
+  - **Back-end:** Firebase  
+- **Site Violência Doméstica Vera Cruz (RS)**  
+  App móvel de apoio e informação sobre violência doméstica, incluindo linhas de ajuda e mapeamento de serviços.  
+  - **Front-end:** React Native  
+  - **Back-end:** Firebase  
+- **TaskMaster Pro**  
+  Ferramenta de gestão de tarefas diárias desenvolvida como prova de conceito para Quarks Tecnologia.  
+  - **Front-end:** Vue.js  
+  - **Back-end:** Node.js + API REST  
+- **OmniAPI Navigator**  
+  Dashboard interativo para testar e visualizar endpoints de várias APIs públicas (números aleatórios, tempo, criptomoedas, CEP, tradução, etc.).  
+  - **Front-end:** Vue.js  
+  - **Back-end:** Node.js agregando múltiplas APIs externas
+- **Portifolio MasseidDev**  
+  -**Site e Aplicativo mobile que apresenta meu portfólio de projetos pessoais e meu perfil profissional.  
+  - **Framework:** React Native
 
 ## 🌟 Projetos de Destaque
-1. **Dashboard Power BI para Suprimentos**  
-   - Métricas de ordens de serviço, gastos por fornecedor e curvas ABC.  
-   - DAX avançado, visualizações de meta x realizado e relatórios dinâmicos.  
-2. **Robo de Tratamento de CSV com IA**  
+1. **Robô de Tratamento de CSV com IA**  
    - Python + bibliotecas de NLP para análise de inconsistências.  
    - Geração de relatório de diagnóstico para uso no Power BI.  
-3. **Bot de Trading Q-Learning**  
+2. **Bot de Trading Q-Learning**  
    - Implementação de agente por Q-Learning em Python.  
    - Integração com MetaTrader5 para execução automática de ordens.  
 
@@ -61,6 +77,5 @@
 - 🐙 **GitHub:** https://github.com/Masseid78  
 - ✉️ **E-mail:** masseid78@gmail.com  
 
-## 😄 Interesses & Curiosidades
-- 🎨 Desenho realista e UX/UI design  
+ 
 
