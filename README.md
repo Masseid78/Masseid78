@@ -2,7 +2,7 @@
 <p align="center">🚀 Desenvolvedor Full-Stack | 🌐 Web & Mobile</p>
 
 ## 🎓 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas** – Bacharelado em andamento (previsão de conclusão: 2025)
+- **Análise e Desenvolvimento de Sistemas** – (previsão de conclusão: 2025)
 
 ## 🛠️ Skills & Ferramentas
 <p align="left">
@@ -29,52 +29,52 @@
 ### Quarks Tecnologia · Junho/2024 – Abril/2025 (11 meses)
 - **Wincard**  
   App móvel de fidelidade digital com geração automática de QR Code, leitura no PDV e registro de transações via API RESTful.  
-  - **Front-end:** React Native  
-  - **Back-end:** Laravel + MySQL  
+  - **Front-end:**Vue.js + React Native  
+  - **Back-end:** Laravel + MySQL
+    
 - **Trackit**  
   Plataforma web de gestão e acompanhamento de processos empresariais.  
   - **Front-end:** Vue.js  
-  - **Back-end:** Laravel (PHP)  
+  - **Back-end:** Laravel (PHP)
+    
 - **Pangea**  
   Ferramenta interna de podcasts corporativos: ajustes de UI/UX, perfil de usuário, listas e compartilhamento.  
-  - **Ionic** + **PHP**
+  - **Ionic** + **Laravel**
 
 ## 🚀 Projetos Pessoais
 - **Site Imobiliário**  
   Plataforma para corretores postarem, visualizarem, editarem e excluírem anúncios de imóveis.  
   - **Front-end:** React Native, HTML, CSS  
-  - **Back-end:** Laravel + MySQL  
+  - **Back-end:** Laravel + MySQL
+    
 - **Site Conselho Tutelar Vera Cruz (RS)**  
   App móvel informativo com notícias, contatos de emergência e orientações para o Conselho Tutelar.  
   - **Front-end:** React Native  
-  - **Back-end:** Firebase  
+  - **Back-end:** Firebase
+    
 - **Site Violência Doméstica Vera Cruz (RS)**  
   App móvel de apoio e informação sobre violência doméstica, incluindo linhas de ajuda e mapeamento de serviços.  
   - **Front-end:** React Native  
-  - **Back-end:** Firebase  
+  - **Back-end:** Firebase
+    
 - **TaskMaster Pro**  
   Ferramenta de gestão de tarefas diárias desenvolvida como prova de conceito para Quarks Tecnologia.  
   - **Front-end:** Vue.js  
-  - **Back-end:** Node.js + API REST  
+  - **Back-end:** Laravel + API REST
+    
 - **OmniAPI Navigator**  
   Dashboard interativo para testar e visualizar endpoints de várias APIs públicas (números aleatórios, tempo, criptomoedas, CEP, tradução, etc.).  
   - **Front-end:** Vue.js  
-  - **Back-end:** Node.js agregando múltiplas APIs externas
+  - **Back-end:** Laravel agregando múltiplas APIs externas
+    
 - **Portifolio MasseidDev**  
   -**Site e Aplicativo mobile que apresenta meu portfólio de projetos pessoais e meu perfil profissional.  
   - **Framework:** React Native
+    
 - **BarberPro**  
   -**Plataforma de agendamento para barbearias, responsiva a qualquer tipo de tela, com controle de caixa, faturamento e estoque.  
   - **Mobile:** React Native  
   - **Back-end:** Laravel
-
-## 🌟 Projetos de Destaque
-1. **Robô de Tratamento de CSV com IA**  
-   - Python + bibliotecas de NLP para análise de inconsistências.  
-   - Geração de relatório de diagnóstico para uso no Power BI.  
-2. **Bot de Trading Q-Learning**  
-   - Implementação de agente por Q-Learning em Python.  
-   - Integração com MetaTrader5 para execução automática de ordens.  
 
 ## 📫 Contato
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/masseid78  
