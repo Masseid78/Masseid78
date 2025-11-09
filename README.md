@@ -2,7 +2,7 @@
 <p align="center">🚀 Desenvolvedor Full-Stack | 🌐 Web & Mobile</p>
 
 ## 🎓 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas** – (previsão de conclusão: 2025)
+- **Análise e Desenvolvimento de Sistemas** – (Formado em 2025)
 
 ## 🛠️ Skills & Ferramentas
 <p align="left">
@@ -26,6 +26,10 @@
 </p>
 
 ## 💼 Experiência Profissional
+### Imply* · Agosto/2025 – Até o momento
+  Trabalhamos desenvolvendo ferramentas novas e visuais para sites de esport como futebol e basquete, usamos as melhores ferramentas para o usuário ter uma melhor experiência 
+  - **Front-end:**Vue.js + JavaScript + css + Angular
+
 ### Quarks Tecnologia · Junho/2024 – Abril/2025 (11 meses)
 - **Wincard**  
   App móvel de fidelidade digital com geração automática de QR Code, leitura no PDV e registro de transações via API RESTful.  
